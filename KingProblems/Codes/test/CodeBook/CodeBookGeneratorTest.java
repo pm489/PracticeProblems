@@ -10,8 +10,9 @@ public class CodeBookGeneratorTest {
     @Test
     public void givenAGeneratorMatrixConstructWholeAlphabetOfCodeWords() throws Exception {
 
-    String matrixDefinition = "7 4\n" +
-            "1 0 0 0\n" +
+        int height = 7;
+        int width =4;
+    String matrixDefinition = "1 0 0 0\n" +
             "0 1 0 0\n" +
             "0 0 1 0\n" +
             "0 0 0 1\n" +
@@ -19,11 +20,11 @@ public class CodeBookGeneratorTest {
             "1 0 1 1\n" +
             "1 1 0 10";
 
-        int totalNumberOfPossibleCodes = (int) Math.pow(2,4);
+        int minimumDistance = 3;
 
-        final CodeBookGenerator codeBookGenerator = new CodeBookGenerator(matrixDefinition);
+        final CodeBookGenerator codeBookGenerator = new CodeBookGenerator(height,width,matrixDefinition);
 
-        assertThat(codeBookGenerator.sizeOfAlphabet(),equalTo(totalNumberOfPossibleCodes));
+        assertThat(codeBookGenerator.minimumDistance(),equalTo(minimumDistance));
 
     }
 

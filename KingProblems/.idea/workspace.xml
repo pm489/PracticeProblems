@@ -4,9 +4,6 @@
     <list default="true" id="1d39e4d8-61a4-47ed-bf83-5c72b3c6466a" name="Default" comment="" />
     <ignored path="KingProblems.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.java" changelist="1d39e4d8-61a4-47ed-bf83-5c72b3c6466a" time="1400603558922" ignored="false" />
-    <file path="/CodeBookGenerator.java" changelist="1d39e4d8-61a4-47ed-bf83-5c72b3c6466a" time="1400603999405" ignored="false" />
-    <file path="/CodeBookGeneratorTest.java" changelist="1d39e4d8-61a4-47ed-bf83-5c72b3c6466a" time="1400604318658" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +26,7 @@
         <option name="ENABLED" value="false" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
         <option name="SUSPEND_POLICY" value="SuspendAll" />
         <option name="SUSPEND" value="true" />
         <option name="COUNT_FILTER_ENABLED" value="false" />
@@ -45,6 +43,7 @@
         <option name="ENABLED" value="false" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
         <option name="SUSPEND_POLICY" value="SuspendAll" />
         <option name="SUSPEND" value="true" />
         <option name="COUNT_FILTER_ENABLED" value="false" />
@@ -68,16 +67,73 @@
       <file leaf-file-name="CodeBookGenerator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Codes/src/CodeBook/CodeBookGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="17" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
+            <state line="17" column="41" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="62" max-vertical-offset="544">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matrix.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Codes/src/CodeBook/Matrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="25" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="663">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CodeBookGeneratorTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Optional.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://E:/Program Files/Java/jdk1.8.0_20/src.zip!/java/util/Optional.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="132" column="13" selection-start="3884" selection-end="3884" vertical-scroll-proportion="0.0" vertical-offset="1671" max-vertical-offset="5593">
+              <folding>
+                <element signature="e#0#11843#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2256#2286#1" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatrixTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Codes/test/CodeBook/MatrixTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="37" selection-start="613" selection-end="613" vertical-scroll-proportion="0.34605598" vertical-offset="204" max-vertical-offset="765">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matrix3f.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://E:/Program Files/Java/jdk1.8.0_20/jre/lib/ext/jfxrt.jar!/com/sun/javafx/geom/Matrix3f.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="13" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="731">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Long.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://E:/Program Files/Java/jdk1.8.0_20/src.zip!/java/lang/Long.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1350" column="28" selection-start="50656" selection-end="50656" vertical-scroll-proportion="0.0" vertical-offset="22404" max-vertical-offset="27234">
+              <folding>
+                <element signature="e#0#61416#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1719#1749#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CodeBookGeneratorTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Codes/test/CodeBook/CodeBookGeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="59" selection-start="557" selection-end="557" vertical-scroll-proportion="0.49367088">
+            <state line="19" column="25" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="121" max-vertical-offset="629">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,7 +144,7 @@
       <file leaf-file-name="ExampleTestFile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Codes/test/CodeBook/ExampleTestFile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="2" selection-end="61" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="2" selection-end="61" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
               <folding />
             </state>
           </provider>
@@ -106,8 +162,10 @@
       <list>
         <option value="$PROJECT_DIR$/Codes/src/CodeBookGenerator.java" />
         <option value="$PROJECT_DIR$/Codes/test/CodeBook/ExampleTestFile" />
-        <option value="$PROJECT_DIR$/Codes/src/CodeBook/CodeBookGenerator.java" />
         <option value="$PROJECT_DIR$/Codes/test/CodeBook/CodeBookGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/Codes/src/CodeBook/CodeBookGenerator.java" />
+        <option value="$PROJECT_DIR$/Codes/src/CodeBook/Matrix.java" />
+        <option value="$PROJECT_DIR$/Codes/test/CodeBook/MatrixTest.java" />
       </list>
     </option>
   </component>
@@ -128,7 +186,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="2" />
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -144,6 +202,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,7 +267,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,22 +284,26 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="CodeBook" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+    <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="CodeBook" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\dev\PracticeProblems\KingProblems\Codes" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.CodeBookGeneratorTest.givenAGeneratorMatrixConstructWholeAlphabetOfCodeWords">
+  <component name="RunManager" selected="JUnit.MatrixTest.canThrowExceptionWhenMatrixIsMalformed">
     <configuration default="false" name="CodeBookGeneratorTest.givenAGeneratorMatrixConstructWholeAlphabetOfCodeWords" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="KingProblems" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -264,10 +326,74 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="false" name="MatrixTest.canCreateAMatrixFromStringForm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KingProblems" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="CodeBook" />
+      <option name="MAIN_CLASS_NAME" value="CodeBook.MatrixTest" />
+      <option name="METHOD_NAME" value="canCreateAMatrixFromStringForm" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MatrixTest.canThrowExceptionWhenMatrixIsMalformed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KingProblems" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="CodeBook" />
+      <option name="MAIN_CLASS_NAME" value="CodeBook.MatrixTest" />
+      <option name="METHOD_NAME" value="canThrowExceptionWhenMatrixIsMalformed" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -276,19 +402,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -316,6 +429,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -352,12 +478,35 @@
       <patterns />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JUnit.CodeBookGeneratorTest.givenAGeneratorMatrixConstructWholeAlphabetOfCodeWords" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MatrixTest.canCreateAMatrixFromStringForm" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MatrixTest.canThrowExceptionWhenMatrixIsMalformed" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CodeBookGeneratorTest.givenAGeneratorMatrixConstructWholeAlphabetOfCodeWords" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MatrixTest.canThrowExceptionWhenMatrixIsMalformed" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MatrixTest.canCreateAMatrixFromStringForm" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CodeBookGeneratorTest.givenAGeneratorMatrixConstructWholeAlphabetOfCodeWords" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -375,83 +524,48 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.67145133" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32854864" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32721713" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
     <option name="myTodoPanelSettings">
-      <value>
-        <are-packages-shown value="false" />
-        <are-modules-shown value="false" />
-        <flatten-packages value="false" />
-        <is-autoscroll-to-source value="false" />
-      </value>
+      <TodoPanelSettings />
     </option>
-    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
-    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
-    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
-    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
-    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
-    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
-    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
-    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
-    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
-    <option name="LIMIT_HISTORY" value="true" />
-    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
-    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
-    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
-    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
-    <option name="ACTIVE_VCS_NAME" />
-    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
-    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
-    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
-    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -461,23 +575,95 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Codes/src/CodeBook/CodeBookGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Codes/test/CodeBook/CodeBookGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="59" selection-start="557" selection-end="557" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="612">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Codes/test/CodeBook/ExampleTestFile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="2" selection-end="61" vertical-scroll-proportion="0.0">
+        <state line="1" column="0" selection-start="2" selection-end="61" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Codes/test/CodeBook/ExampleTestFile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="2" selection-end="61" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_20/src.zip!/java/lang/Long.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1350" column="28" selection-start="50656" selection-end="50656" vertical-scroll-proportion="0.0" vertical-offset="22404" max-vertical-offset="27234">
+          <folding>
+            <element signature="e#0#61416#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1719#1749#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_20/jre/lib/ext/jfxrt.jar!/com/sun/javafx/geom/Matrix3f.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_20/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="13" selection-start="3884" selection-end="3884" vertical-scroll-proportion="0.0" vertical-offset="1671" max-vertical-offset="5593">
+          <folding>
+            <element signature="e#0#11843#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2256#2286#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Codes/src/CodeBook/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="25" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Codes/src/CodeBook/CodeBookGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="17" column="41" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="62" max-vertical-offset="544">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Codes/test/CodeBook/CodeBookGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="59" selection-start="557" selection-end="557" vertical-scroll-proportion="0.49367088">
+        <state line="19" column="25" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="121" max-vertical-offset="629">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Codes/test/CodeBook/MatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="37" selection-start="613" selection-end="613" vertical-scroll-proportion="0.34605598" vertical-offset="204" max-vertical-offset="765">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
